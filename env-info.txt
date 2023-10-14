@@ -1,0 +1,5 @@
+/Users/alexmee/Library/Python/3.9/bin
+
+export PATH="$PATH:/Users/alexmee/Library/Python/3.9/bin"
+
+rehash
